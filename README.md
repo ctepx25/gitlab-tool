@@ -13,7 +13,7 @@ docker run --name gitlab-tool -p 80:5000 -e TOKEN="<api token>" -e SERVER="<gitl
 
 #### Usage:
 ---
-Point your browser to http://127.0.01 , help page
+Point your browser to http://127.0.01 to get help page
 
 ##### Grant user group or repository permissions:
 
